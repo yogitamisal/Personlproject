@@ -1,0 +1,71 @@
+img{
+    height: 210px;
+    width: 200px;
+    border-radius: 100px;
+}
+body{
+    background-color: skyblue;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    width: 300px;
+    border-radius: 100px;
+    font-family:  'Montserrat', sans-serif;;
+}
+h4{
+    margin: 0;
+}
+table{
+    position: relative;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+p{
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+/* image profile */
+.div1{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+/* para */
+.div2{
+    padding-left:250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* My Skills */
+.div3{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+    border-radius: 8%;
+    text-align: center;
+}
+/* My Hobbies */
+.div4{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 400px;
+    position: absolute;
+    border-radius: 8%;
+    text-align: center;
+}
+/* Fev programming lang */
+.div5{
+    height: 200px;
+    width: 300px;
+    background-color: white;
+    margin-left: 800px;
+    border-radius: 8%;
+    text-align: center;
+}
+
+   
